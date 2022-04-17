@@ -1,0 +1,3 @@
+- Hi, I’m @cyberhardt;
+- I’m interested in Arts, the Internet and learning about stuff;
+- I’m currently learning NIM, Python and C.
